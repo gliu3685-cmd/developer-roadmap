@@ -1,23 +1,40 @@
-# Developer Roadmap
+# 🚀 开发者路线图
 
-## About
+## 关于
 
-This repository records my journey of learning software development.
+这个仓库记录我的软件开发学习过程。
 
-## Roadmap
+目标方向：
 
-- [x] Linux Environment
-- [x] Git & GitHub
-- [ ] Linux Commands
-- [ ] Python
-- [ ] FastAPI
-- [ ] Docker
-- [ ] AI Agent
+## 目标方向
 
-## Daily Progress
+- 嵌入式系统开发
+- 软件工程
+- 后端服务开发
+- AI Agent 应用开发
+记录内容包括：
 
-### Day 1
-- Installed Ubuntu (WSL)
-- Configured Git
-- Configured GitHub SSH
-- Uploaded my first repository
+- Linux
+- Git
+- Python
+- FastAPI
+- Docker
+- AI Agent
+# 学习路线
+
+## 基础能力
+- Linux
+- Git
+- Python
+
+## 软件开发
+- FastAPI
+- Docker
+- 数据库
+
+## 智能系统
+- 嵌入式开发
+- AI Agent
+- LLM 应用
+
+
