@@ -2,18 +2,6 @@
 
 ## 今日学习内容
 
-### Linux文件操作
-
-学习命令：
-
-- cd
-- ls
-- mkdir
-- touch
-- cat
-- find
-
-
 ### Linux权限
 
 学习：
@@ -28,10 +16,16 @@
 ### Python环境
 
 完成：
+## Day5
 
-- Python版本检查
-- venv虚拟环境创建
-- pip安装第三方库
+完成内容：
+
+- Linux基础命令
+- Linux文件权限
+- Shell脚本执行
+- Python虚拟环境
+- pip包管理
+- Python工程结构
 
 
 ## 今日实践
